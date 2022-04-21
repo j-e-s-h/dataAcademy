@@ -1,0 +1,1 @@
+Jupyter notebook for the DataAcademy challenge by Platzi.
